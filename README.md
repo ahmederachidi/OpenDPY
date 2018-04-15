@@ -4,4 +4,4 @@ if you know somting that we can add add it ofc
 - must have prefix =
 - no nsfw
 - no viruses
-- no "inpossible to read" code
+- no "impossible to read" code
